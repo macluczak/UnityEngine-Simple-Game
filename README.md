@@ -1,6 +1,8 @@
 # UnityEngine-Simple-Game
 implementation of a simple game, tic-tac-toe with UnityEgine/ Only Scripts and Components
 
+![145366_AM_Task1__1__AdobeExpress](https://user-images.githubusercontent.com/77066408/173611512-be85b882-6d59-4052-b94d-9ac78e1047ae.gif)
+
 
 ## Examples: 
 
